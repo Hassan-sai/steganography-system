@@ -5,6 +5,11 @@ and retrieves it back — all without visibly altering the image.
 
 ---
 
+## Algorithm / Flow Design
+![Steganography System Flow](Flowchart.jpg)
+
+---
+
 ## What it does
 
 - **Encode**: Embeds a secret text file inside a BMP image by modifying the least significant bit of each pixel byte
